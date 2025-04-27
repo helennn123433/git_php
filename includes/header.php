@@ -2,7 +2,9 @@
 $menuItems = [
     'Главная' => '/index.php',
     'О нас' => '/pages/about.php',
-    'Контакты' => '/pages/contact.php'
+    'Контакты' => '/pages/contact.php',
+    'Добавить статью' => '/pages/add_article.php',
+    'Статьи' => '/pages/articles.php',
 ];
 ?>
 
